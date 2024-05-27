@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+body {
+    height: 100vh;
+    background: (120deg , 8052ec, #d16);
+
+}
+
+
+html {
+    font-size: 10;
+}
+
+.wrapper {
+    position: absolute;
+    transform: translate();
+    top: 50;
+    left: 50%;
+
+}
+
+.container {
+    width: 70vmin;
+    height: 70vmin;
+    display: flat;
+    flex-wrap: nowrap;
+}
+
+
+.diegoalejandrobz {
+    background: red;
+    height: 22vmin;
+
+}
+
+.jghvnfkdalejandro , h1 {
+    color: aqua;
+    text-align: center;
+    justify-content: center;
+}
